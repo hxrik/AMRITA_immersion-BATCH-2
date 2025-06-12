@@ -1,0 +1,101 @@
+Part_ID,Part_Name,Part_Type,Brand,Car_Model,Year,Material,Condition,Country_of_Origin,Weight_kg,Warranty_Years,Stock_Availability,Price_LKR,Length_cm,Width_cm,Height_cm
+1,Radiator,Fuel System,Mann,Suzuki Alto,2019,Metal,New,Malaysia,1.9,1,Out of Stock,11711,27,37,7
+2,Alternator,Cooling,Bosch,BMW 3 Series,2023,Plastic,New,Japan,6,1,In Stock,14519,47,43,5
+3,Alternator,Cooling,Exide,Mazda CX-5,2018,Plastic,New,Germany,3.1,3,Out of Stock,41140,26,14,6
+4,Spark Plug,Engine Parts,Bosch,Toyota Hilux,2015,Ceramic,New,Germany,8.5,1,In Stock,34922,15,40,2
+5,Radiator,Exterior,Delphi,Toyota Corolla,2017,Aluminum,New,Germany,6.4,3,In Stock,31185,60,34,4
+6,Spark Plug,Engine Parts,Denso,Suzuki Alto,2017,Aluminum,New,South Korea,2.4,2,Out of Stock,48784,24,24,7
+7,Fuel Pump,Fuel System,Bosch,Hyundai Elantra,2015,Ceramic,New,South Korea,7.5,1,Out of Stock,48136,12,14,13
+8,Alternator,Fuel System,Valeo,Kia Sportage,2018,Synthetic,New,India,1.9,2,Out of Stock,5640,16,50,10
+9,Spark Plug,Electrical,Valeo,Kia Sportage,2018,Aluminum,New,India,6.6,0.5,In Stock,48864,64,27,18
+10,Headlight Assembly,Electrical,Denso,Suzuki Alto,2021,Plastic,New,Germany,5.5,1,Out of Stock,21623,22,35,9
+11,Battery,Fuel System,Mann,Suzuki Alto,2021,Ceramic,New,USA,2.2,3,In Stock,40548,34,44,3
+12,Radiator,Ignition,Bosch,BMW 3 Series,2021,Synthetic,New,USA,6,2,Out of Stock,32941,9,7,8
+13,Headlight Assembly,Exterior,Bosch,Toyota Corolla,2022,Ceramic,New,India,8.4,3,In Stock,23157,23,50,7
+14,Spark Plug,Ignition,Mann,Kia Sportage,2019,Ceramic,New,Japan,7.4,3,In Stock,36025,12,35,10
+15,Windshield Wiper,Exterior,Philips,Hyundai Elantra,2021,Aluminum,New,Japan,9.5,1,Out of Stock,4142,56,40,5
+16,Alternator,Exterior,K&N,Toyota Corolla,2018,Synthetic,New,South Korea,4.3,2,In Stock,25094,23,48,6
+17,Engine Oil Filter,Brake System,Philips,Mazda CX-5,2023,Synthetic,New,USA,4.1,1,In Stock,35883,36,15,4
+18,Fuel Pump,Engine Parts,Delphi,Toyota Corolla,2023,Aluminum,New,Germany,2.5,2,In Stock,20589,68,34,20
+19,Brake Pad,Lighting,NGK,Mazda CX-5,2015,Synthetic,New,Japan,9.8,1,Out of Stock,6192,11,20,8
+20,Alternator,Cooling,Denso,Nissan X-Trail,2018,Aluminum,New,Japan,9,1,In Stock,20866,64,44,11
+21,Spark Plug,Fuel System,Mann,Hyundai Elantra,2020,Synthetic,New,Japan,4.1,0.5,Out of Stock,28258,65,18,9
+22,Air Filter,Exterior,Valeo,Hyundai Elantra,2015,Plastic,New,Japan,0.1,2,Out of Stock,43456,65,35,2
+23,Fuel Pump,Cooling,Exide,Toyota Corolla,2017,Ceramic,New,India,7.2,3,In Stock,1810,70,10,11
+24,Brake Pad,Brake System,Philips,Mazda CX-5,2020,Synthetic,New,India,8.1,1,In Stock,36120,19,23,5
+25,Engine Oil Filter,Lighting,Delphi,Nissan X-Trail,2021,Synthetic,New,Japan,7.4,2,Out of Stock,41915,8,37,4
+26,Radiator,Fuel System,Delphi,Honda Civic,2015,Metal,New,Malaysia,6,0.5,In Stock,42077,62,29,17
+27,Windshield Wiper,Lighting,Exide,Suzuki Alto,2021,Aluminum,New,South Korea,6.4,2,In Stock,24512,19,26,9
+28,Alternator,Cooling,NGK,Toyota Hilux,2021,Synthetic,New,Japan,8.6,1,Out of Stock,11456,23,11,9
+29,Radiator,Engine Parts,Denso,Mazda CX-5,2015,Ceramic,New,India,2.5,1,Out of Stock,33353,20,30,5
+30,Radiator,Engine Parts,NGK,Hyundai Elantra,2023,Metal,New,South Korea,2.1,3,In Stock,5098,65,34,9
+31,Headlight Assembly,Brake System,Valeo,Toyota Hilux,2023,Ceramic,New,USA,6.6,0.5,Out of Stock,4898,28,47,3
+32,Radiator,Electrical,Bosch,Nissan X-Trail,2019,Plastic,New,Japan,9.2,3,In Stock,32024,29,50,11
+33,Spark Plug,Ignition,Exide,Toyota Corolla,2016,Aluminum,New,India,5.2,1,Out of Stock,34382,37,5,20
+34,Radiator,Electrical,Denso,Mazda CX-5,2016,Ceramic,New,Malaysia,5.1,3,In Stock,29642,57,23,17
+35,Engine Oil Filter,Electrical,Philips,Toyota Corolla,2016,Plastic,New,Germany,2.9,0.5,In Stock,20723,18,23,15
+36,Air Filter,Electrical,Mann,Toyota Hilux,2023,Ceramic,New,India,1.4,2,In Stock,6436,8,5,14
+37,Alternator,Ignition,Bosch,Nissan X-Trail,2018,Ceramic,New,Japan,5.1,0.5,In Stock,2770,46,25,20
+38,Windshield Wiper,Ignition,Philips,Suzuki Alto,2022,Synthetic,New,Japan,1.2,0.5,In Stock,46043,37,33,3
+39,Fuel Pump,Lighting,NGK,Honda Civic,2016,Plastic,New,Japan,4.6,3,In Stock,4455,40,14,11
+40,Headlight Assembly,Exterior,Denso,Mazda CX-5,2023,Ceramic,New,India,10,3,Out of Stock,47368,51,11,16
+41,Air Filter,Ignition,Philips,Hyundai Elantra,2022,Ceramic,New,South Korea,8.6,2,In Stock,2518,66,24,15
+42,Windshield Wiper,Lighting,Philips,Toyota Hilux,2016,Plastic,New,India,2.4,2,In Stock,3651,13,7,4
+43,Brake Pad,Lighting,Delphi,Hyundai Elantra,2019,Metal,New,Malaysia,2.9,2,Out of Stock,47646,18,39,14
+44,Engine Oil Filter,Engine Parts,Delphi,Mazda CX-5,2016,Metal,New,Japan,4.1,3,In Stock,25419,36,23,7
+45,Alternator,Engine Parts,K&N,Kia Sportage,2015,Plastic,New,Germany,0.4,1,In Stock,30039,50,38,4
+46,Alternator,Cooling,Valeo,Toyota Corolla,2018,Synthetic,New,India,1.2,1,Out of Stock,12215,14,39,13
+47,Headlight Assembly,Lighting,Valeo,Toyota Corolla,2022,Ceramic,New,Japan,5.6,2,In Stock,46128,61,46,19
+48,Engine Oil Filter,Engine Parts,Bosch,Toyota Hilux,2023,Synthetic,New,Germany,0.8,0.5,Out of Stock,5343,53,27,13
+49,Alternator,Ignition,Mann,BMW 3 Series,2023,Plastic,New,Malaysia,4.6,2,Out of Stock,25112,46,20,19
+50,Fuel Pump,Cooling,Mann,Suzuki Alto,2018,Plastic,New,South Korea,0.9,0.5,In Stock,47120,58,12,15
+51,Battery,Cooling,K&N,Hyundai Elantra,2017,Plastic,New,USA,8.4,2,In Stock,41641,63,32,6
+52,Alternator,Ignition,Mann,BMW 3 Series,2018,Synthetic,New,Germany,3.3,2,Out of Stock,49560,15,16,14
+53,Air Filter,Brake System,Valeo,Kia Sportage,2018,Metal,New,Japan,6.4,3,Out of Stock,11450,36,12,11
+54,Headlight Assembly,Lighting,Delphi,Mazda CX-5,2019,Plastic,New,Malaysia,7.7,0.5,In Stock,17900,24,12,5
+55,Windshield Wiper,Ignition,Bosch,Kia Sportage,2015,Metal,New,Germany,9.8,1,In Stock,43876,62,50,6
+56,Battery,Engine Parts,Denso,Hyundai Elantra,2017,Metal,New,Japan,3.8,2,Out of Stock,48513,69,34,16
+57,Air Filter,Fuel System,Valeo,Mazda CX-5,2018,Aluminum,New,Germany,9.9,1,In Stock,19558,56,5,17
+58,Battery,Ignition,Valeo,Hyundai Elantra,2020,Metal,New,Germany,4.4,0.5,Out of Stock,27892,52,46,5
+59,Headlight Assembly,Electrical,Valeo,Nissan X-Trail,2016,Aluminum,New,Malaysia,9.6,3,In Stock,8801,39,11,15
+60,Brake Pad,Electrical,Valeo,Toyota Corolla,2021,Synthetic,New,Germany,4.2,2,Out of Stock,38728,8,15,14
+61,Brake Pad,Ignition,Delphi,Honda Civic,2019,Aluminum,New,South Korea,7.5,2,In Stock,19469,53,10,11
+62,Battery,Cooling,Exide,Toyota Hilux,2015,Ceramic,New,Japan,5.3,3,Out of Stock,40647,40,27,15
+63,Brake Pad,Engine Parts,Denso,Kia Sportage,2015,Ceramic,New,India,3.3,0.5,In Stock,35904,5,45,14
+64,Fuel Pump,Exterior,Delphi,Mazda CX-5,2019,Metal,New,India,6.5,0.5,Out of Stock,40703,52,44,3
+65,Air Filter,Fuel System,Exide,Toyota Corolla,2021,Synthetic,New,India,6.4,2,In Stock,9948,39,49,15
+66,Battery,Fuel System,K&N,Mazda CX-5,2018,Ceramic,New,USA,8.4,3,In Stock,4142,67,45,6
+67,Engine Oil Filter,Fuel System,Exide,Mazda CX-5,2021,Synthetic,New,Japan,6.7,2,Out of Stock,19080,43,48,20
+68,Engine Oil Filter,Lighting,Delphi,BMW 3 Series,2022,Synthetic,New,Germany,1.9,1,In Stock,25299,6,33,19
+69,Brake Pad,Fuel System,K&N,Toyota Corolla,2018,Synthetic,New,Japan,8.1,1,Out of Stock,36984,69,41,19
+70,Brake Pad,Electrical,Valeo,Mazda CX-5,2015,Ceramic,New,USA,1.8,2,In Stock,15835,23,13,20
+71,Headlight Assembly,Brake System,K&N,Toyota Hilux,2015,Metal,New,Germany,0.4,0.5,In Stock,33532,21,35,5
+72,Headlight Assembly,Electrical,K&N,BMW 3 Series,2020,Plastic,New,South Korea,0.7,2,Out of Stock,47923,19,49,8
+73,Radiator,Fuel System,Denso,Toyota Hilux,2021,Aluminum,New,Japan,4.3,2,In Stock,22501,29,16,10
+74,Spark Plug,Engine Parts,NGK,Honda Civic,2015,Ceramic,New,India,5.1,3,Out of Stock,35316,26,42,3
+75,Radiator,Lighting,Philips,Nissan X-Trail,2015,Aluminum,New,Japan,0.7,2,In Stock,5630,59,34,8
+76,Windshield Wiper,Brake System,Bosch,Toyota Hilux,2020,Aluminum,New,South Korea,9,3,In Stock,14134,39,22,11
+77,Alternator,Lighting,Delphi,Hyundai Elantra,2015,Metal,New,South Korea,1.6,1,Out of Stock,22504,67,7,4
+78,Windshield Wiper,Engine Parts,Valeo,Toyota Corolla,2017,Plastic,New,Japan,6.9,2,In Stock,31217,25,13,20
+79,Brake Pad,Cooling,Delphi,Mazda CX-5,2019,Plastic,New,Japan,2.3,1,In Stock,4090,19,29,10
+80,Headlight Assembly,Ignition,Exide,Nissan X-Trail,2017,Metal,New,Japan,1.8,2,Out of Stock,27587,47,14,20
+81,Fuel Pump,Ignition,NGK,Toyota Hilux,2016,Plastic,New,India,4.8,3,Out of Stock,33499,42,15,17
+82,Engine Oil Filter,Brake System,K&N,Toyota Hilux,2017,Ceramic,New,Japan,4.6,3,Out of Stock,13997,57,5,16
+83,Air Filter,Electrical,Mann,Suzuki Alto,2016,Plastic,New,Malaysia,2.8,1,In Stock,17232,57,39,18
+84,Brake Pad,Fuel System,Exide,Hyundai Elantra,2019,Ceramic,New,Germany,8.5,3,In Stock,19577,31,27,10
+85,Engine Oil Filter,Exterior,Denso,BMW 3 Series,2017,Plastic,New,Japan,1.1,1,In Stock,44825,13,46,4
+86,Windshield Wiper,Brake System,Philips,BMW 3 Series,2015,Aluminum,New,South Korea,3.9,3,Out of Stock,30131,40,33,15
+87,Spark Plug,Cooling,Mann,BMW 3 Series,2018,Aluminum,New,Japan,4.2,0.5,In Stock,35833,40,23,4
+88,Fuel Pump,Fuel System,Denso,Toyota Hilux,2019,Aluminum,New,South Korea,10,1,In Stock,42602,14,38,13
+89,Headlight Assembly,Lighting,Bosch,Toyota Corolla,2019,Ceramic,New,USA,0.5,3,In Stock,16406,68,39,18
+90,Air Filter,Engine Parts,Denso,Toyota Hilux,2021,Synthetic,New,India,9.6,3,Out of Stock,41254,13,37,15
+91,Windshield Wiper,Fuel System,Exide,Hyundai Elantra,2016,Aluminum,New,Germany,1.8,1,In Stock,34747,10,21,20
+92,Air Filter,Electrical,Valeo,BMW 3 Series,2016,Aluminum,New,Malaysia,7.1,3,In Stock,15347,38,29,16
+93,Spark Plug,Electrical,Bosch,Kia Sportage,2021,Ceramic,New,Malaysia,3.1,2,In Stock,3513,36,19,18
+94,Air Filter,Fuel System,NGK,Toyota Corolla,2023,Ceramic,New,South Korea,3,0.5,Out of Stock,4357,57,13,14
+95,Alternator,Brake System,Denso,Toyota Corolla,2017,Plastic,New,Malaysia,7.5,1,Out of Stock,43597,17,48,13
+96,Spark Plug,Lighting,K&N,Honda Civic,2022,Plastic,New,Malaysia,1.9,3,In Stock,8841,13,6,11
+97,Spark Plug,Fuel System,NGK,Toyota Hilux,2017,Ceramic,New,Malaysia,2.2,3,In Stock,46009,25,45,7
+98,Windshield Wiper,Exterior,Mann,Kia Sportage,2022,Ceramic,New,Germany,5.1,1,In Stock,43036,31,50,19
+99,Air Filter,Brake System,Denso,Honda Civic,2016,Ceramic,New,USA,4.9,2,Out of Stock,41075,33,35,14
+100,Radiator,Exterior,Denso,Honda Civic,2016,Aluminum,New,India,6.3,2,In Stock,45130,9,48,17
